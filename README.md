@@ -70,7 +70,8 @@ Preferred Payment Method: Credit Card is the most frequently used payment method
 
 Sales Distribution: The data shows a detailed breakdown of sales by day and month, allowing for the identification of peak sales periods.
 
-For a detailed summary of the aggregated data, please refer to the csv file ()
+For a detailed summary of the aggregated data, please refer to the csv file (https://github.com/trishna-97/Online-Sales-Analysis/blob/main/Online_Sales_Data_Project(Final).xlsx)
+For checking the dashboard please refer to this png file ()
 
 
 
